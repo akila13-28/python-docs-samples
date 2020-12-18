@@ -25,7 +25,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     """Return a friendly HTTP greeting."""
-    return 'Hello World!'
+    return 'Features of Java 1.Platform Independent 2.Simple 3.Secure 4.Architecture-neutral'
 
 
 if __name__ == '__main__':
